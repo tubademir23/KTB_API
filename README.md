@@ -2,7 +2,7 @@
 ## Bu uygulama crud operasyonlarını gerçekleştiren API'dir.
 
 [`AWS Lambda`](https://aws.amazon.com/tr/lambda/?nc2=h_ql_prod_cp_lbd)'da NodeJS function olarak oluşturulmuştur. 
-![alt text](https://github.com/tubademir23/KTB_API/images/blob/main/function.PNG?raw=true)
+![alt text](https://github.com/tubademir23/KTB_API/blob/main/images/function.PNG?raw=true)
 
 Örnek test json'ları:
 - `list`
@@ -40,8 +40,8 @@ Json ve Document Type Database kullanımı sayesinde tablo bağımsız çalışm
 
 Kullanım için Credential işlemlerinin doğru yapılması önemlidir.
 
-![alt text](https://github.com/tubademir23/KTB_API/images/blob/main/permission.PNG?raw=true)
+![alt text](https://github.com/tubademir23/KTB_API/blob/main/images/permission.PNG?raw=true)
 
 Veritabanı olarak NoSQL [`DynamoDB`](https://aws.amazon.com/tr/dynamodb/?nc2=h_ql_prod_serv_ddb) kullanmaktadır.
 
-![alt text](https://github.com/tubademir23/KTB_API/images/blob/main/dynamodb.PNG?raw=true)
+![alt text](https://github.com/tubademir23/KTB_API/blob/main/images/dynamodb.PNG?raw=true)
